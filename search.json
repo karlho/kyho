@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "library(datasets)\ndata(Titanic)\npar(family=\"Palatino\")\nplot(Titanic)\n\n\n\n\n\n\n\nCOVID and HDI, outliers identified"
+  },
+  {
+    "objectID": "posts/analysis/index.html",
+    "href": "posts/analysis/index.html",
+    "title": "Analysis with easystats",
+    "section": "",
+    "text": "Analysis with full diagnosis"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Data Generation",
+    "section": "",
+    "text": "Big Data in Data Generation"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Generation",
+    "section": "",
+    "text": "Analysis with easystats\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 13, 2022\n\n\nKarl Ho\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 12, 2022\n\n\nKarl Ho\n\n\n\n\n\n\n  \n\n\n\n\nData Generation\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 11, 2022\n\n\nKarl Ho\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Data science and dog"
+  }
+]
